@@ -1,5 +1,7 @@
 # AttentionedDeepPaint
 
+## Fork From Repository of [ktaebum](https://github.com/ktaebum/AttentionedDeepPaint)
+
 ## Automatic Anime Sketch Colorization Using Generative Adversarial Network (GAN)
 
 ## Dependency
