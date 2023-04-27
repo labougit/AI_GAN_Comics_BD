@@ -1,0 +1,1 @@
+(Namespace(print_every=300, batch_size=1, last_epoch=0, num_epochs=15, learning_rate=0.0002, beta1=0.5, verbose=True, train=True, weight_decay=0.0, dropout=0.5, save_every=5, sample=4, save_name='', model='deepunet', no_mse=True, lambd=100.0, mode='B2A', pretrainedG='', pretrainedD=''), <torch.utils.data.dataloader.DataLoader object at 0x7fce189ecca0>, device(type='cuda'))
