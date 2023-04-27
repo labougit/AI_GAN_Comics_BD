@@ -8,7 +8,7 @@ from os.path import isfile, join
 import copy
 
 
-mod = load_model('../sketchKeras/mod.h5')
+mod = load_model('./mod.h5')
 
 def get(path, new_path):
     from_mat = cv2.imread(path)
@@ -45,8 +45,8 @@ def get(path, new_path):
     return
 
 
-path_folder = "../test_luke/"
-new_path_folder = "../test_luke/sketch/"
+path_folder = "../../Sketch_example/sketchs/"
+new_path_folder = "../../Sketch_example/sketchs_resized/"
 count = 0
 for file in os.listdir(path_folder):
     file_path = join(path_folder, file)

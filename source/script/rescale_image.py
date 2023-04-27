@@ -42,7 +42,7 @@ def addPad(image):
     new_image.paste(imageB, (imageA.width, 0))
     return new_image
 
-path_folder = "../test_luke/sketch"
+path_folder = "../../Sketch_example/sketchs_resized/"
 for file in os.listdir(path_folder):
     file_path = join(path_folder, file)
     if isfile(file_path):

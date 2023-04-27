@@ -15,6 +15,16 @@ Tous les poids se trouvent sur notre google drive qu'on peut trouver sur ce [lie
 Un model proposé par ktaebum.
 
 Résultat obtenu avec 45 epochs sur le jeux de données de BD.
-![gif_resultat](asset/deepunetpaint_045_44.png)
+![result](asset/AttentionedDeepPaint/deepunetpaint_045_44.png)
 
 Une compilation de plusieurs sorties en fonction de leur référence mise en place.
+![image_de_base](asset/AttentionedDeepPaint/AttentionedDeepPaint_example.jpg)
+![gif_result](asset/AttentionedDeepPaint/00085.gif)
+
+### Guide utilisation rapide
+- Télécharger les poids du générateur sur le lien drive
+- Insérer les poids dans le dossier checkpoints
+- Mettez votre image sketch dans data/test et votre image de référence dans data/reference
+- Executez le script python colorize.py avec en argument le nom du test et le nom de la référence.
+
+## Upscale
