@@ -13,17 +13,17 @@ Tous les poids se trouvent sur notre google drive qu'on peut trouver sur ce [lie
 Model de type Autoencoder Pix2Pix Takero Miyato appliqué à de la coloration de planche de manière automatique.
 
 Résultat obtenu avec 30 epochs sur le jeux de données de BD.
-![result](asset/pixtopix/im_gif.png)
-![result](asset/pixtopix/im_gif_2.png)
-![result](asset/pixtopix/im_gif_3.png)
-![result](asset/pixtopix/im_gif_4.png)
-![result](asset/pixtopix/im_gif_5.png)
-![result](asset/pixtopix/im_gif_6.png)
-![result](asset/pixtopix/im_gif_7.png)
-![result](asset/pixtopix/im_gif_8.png)
-![result](asset/pixtopix/im_gif_9.png)
-![result](asset/pixtopix/im_gif_10.png)
-![result](asset/pixtopix/im_gif_11.png)
+![result](asset/pixtopix/im_gif.PNG)
+![result](asset/pixtopix/im_gif_2.PNG)
+![result](asset/pixtopix/im_gif_3.PNG)
+![result](asset/pixtopix/im_gif_4.PNG)
+![result](asset/pixtopix/im_gif_5.PNG)
+![result](asset/pixtopix/im_gif_6.PNG)
+![result](asset/pixtopix/im_gif_7.PNG)
+![result](asset/pixtopix/im_gif_8.PNG)
+![result](asset/pixtopix/im_gif_9.PNG)
+![result](asset/pixtopix/im_gif_10.PNG)
+![result](asset/pixtopix/im_gif_11.PNG)
 
 Voici quelque exemple expliquant les différents résultats possible de ce model :
 
