@@ -14,6 +14,7 @@ import sys
 if __name__ == '__main__':
 
 	arg  = sys.argv[1]
+	output = sys.argv[2]
 	warnings.simplefilter("ignore", UserWarning)
 	with torch.no_grad():
 		model = EdsrModel.from_pretrained('eugenesiow/edsr', scale=2)
@@ -25,5 +26,5 @@ if __name__ == '__main__':
 		inputs = ImageLoader.load_image(img)
 		preds = model(inputs)
 
-		ImageLoader.save_image(preds, './outputs/scaled_2x.png')
+		ImageLoader.save_image(preds, output)
 

@@ -25,3 +25,6 @@ The script extract a palette of 16 colors from the raw image. An dwrite in 4 reg
 
 ## train_val.
 Split data between train val value with a ratio of 20% for val and 80 % for train.
+
+## upscaling
+Simple script which uses super_image librarie and pre-training weights to upscale your image. It uses an AI model.

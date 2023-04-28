@@ -28,3 +28,8 @@ Une compilation de plusieurs sorties en fonction de leur référence mise en pla
 - Executez le script python colorize.py avec en argument le nom du test et le nom de la référence.
 
 ## Upscale
+
+Pour avoir un résultat intéressant, nous avons utilisé une IA de upscaling. Plus précisément nous avons utiliser la libraire `super_image` qui permet d'agrandir notre image en minimisant les efforts demandé par l'IA de colorisation.
+
+### Utilisation rapide
+- Executez le script upscaling.py avec comme premier argument le chemi de votre image et le second argument est la chemin de sortie.
