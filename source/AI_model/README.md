@@ -1,5 +1,5 @@
 # AI_GAN_Comics_BD
-## Comparaison résulat entre le Pix2Pix et le GAN
+## Comparaison modèle entre le Pix2Pix et le GAN
 
 ### GAN :
 
