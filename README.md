@@ -49,3 +49,5 @@ Pour avoir un résultat intéressant, nous avons utilisé une IA de upscaling. P
 
 ### Utilisation rapide
 - Executez le script upscaling.py avec comme premier argument le chemi de votre image et le second argument est la chemin de sortie.
+
+![gif_result](asset/AttentionedDeepPaint/00085_upscale.gif)
