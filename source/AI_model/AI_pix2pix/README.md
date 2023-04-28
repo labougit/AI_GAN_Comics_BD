@@ -2,6 +2,15 @@
 
 Automatic Sketch Colorization with reference image
 
+## Fork from Takero Miyato
+L'implémentation du modèle a été modifié dans la partie sketchToColor par la librairie Opencv par le biais de filtre de convolution.
+
+Voici la différence de sketch : 
+Celui de gauche corresponds au sketch généré par le reseaux de neurone
+Celui de droite corresponds au sketch généré par opencv
+
+![result](asset/sketch.png)
+
 Prerequisites
 ------
 
